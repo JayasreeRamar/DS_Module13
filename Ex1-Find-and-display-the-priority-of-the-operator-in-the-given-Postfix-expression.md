@@ -5,6 +5,7 @@ To write a JAVA program To determine the minimum value (e.g., lowest heartbeat),
 
 ## Algorithm
 1. Start
+   
 2.Read the number of elements (e.g., number of heartbeat readings).
 
 3.Store all readings in an array.
